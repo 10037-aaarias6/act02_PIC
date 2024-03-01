@@ -1,0 +1,10 @@
+.repo-list-item {
+    animation: fadeIn 0.5s;
+    margin-bottom: 10px;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
